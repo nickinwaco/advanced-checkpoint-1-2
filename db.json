@@ -1,5 +1,47 @@
 {
-  "movies":[],
+  "movies": [
+    {
+      "vote_count": 31,
+      "id": 226979,
+      "video": false,
+      "vote_average": 7.1,
+      "title": "Test",
+      "popularity": 2.703095,
+      "poster_path": "/mMohokylrZ2AsFPgqdrgI8o7i9i.jpg",
+      "original_language": "en",
+      "original_title": "Test",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "backdrop_path": "/bcRFf5Qmw4XotFYAfj8fCS8PJy5.jpg",
+      "adult": false,
+      "overview": "San Francisco, 1985. Two opposites attract at a modern dance company. Together, their courage and resilience are tested as they navigate a world full of risks and promise, against the backdrop of a disease no one seems to know anything about.",
+      "release_date": "2013-06-29",
+      "_id": 1
+    },
+    {
+      "vote_count": 46,
+      "id": 401123,
+      "video": false,
+      "vote_average": 5.3,
+      "title": "Beta Test",
+      "popularity": 4.034077,
+      "poster_path": "/9lvcWpo7na9nxW3FMyIQoc2tmdQ.jpg",
+      "original_language": "en",
+      "original_title": "Beta Test",
+      "genre_ids": [
+        53,
+        28,
+        878
+      ],
+      "backdrop_path": "/rG2jdLdj4U55MgI3g9f85w2th1y.jpg",
+      "adult": false,
+      "overview": "While testing the latest first person shooter from global game developer, Sentinel, video game champion Max Troy discovers the events happening within the game are being reflected in the real world. He soon determines that the game's protagonist is real-life Orson Creed, an ex-Sentinel employee who is being remotely controlled by the corporation for reasons unknown. As virtual and real worlds collide, Max and Creed must join forces to unravel the conspiracy before the game's sinister events escalate and overwhelm the city.",
+      "release_date": "2016-07-22",
+      "_id": 2
+    }
+  ],
   "posts": [
     {
       "id": 1,
